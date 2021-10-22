@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lainy Sin</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [My Website](link.soon)
+- 🔭 I’m currently working on [My Website](https://github.com/lainysin/lainysinWebsite.git)
 
 - 🌱 I’m currently learning **Javascript, React**
 
